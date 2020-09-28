@@ -1,1 +1,1 @@
-first_number = "this is wrong"
+first_number = 1
